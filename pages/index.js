@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Ether Wallet</title>
+        <title>Escrow</title>
         <meta name="description" content="Crud contracat" />
       </Head>
       <Header />
